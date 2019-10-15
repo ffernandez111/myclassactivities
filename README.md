@@ -1,0 +1,2 @@
+# myclassactivities
+class work
